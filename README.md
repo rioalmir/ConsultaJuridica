@@ -1,5 +1,4 @@
 # Legal Consultation
-Consulta Jurídica
 Projeto de simulação de uma consulta jurídica, utiliza-se de um login fictício com informações fictícias em uma planilha para preenchimento através do Selenium
 
 Processos.xlsx -> Arquivo Excel contendo dados fictícios de processos
